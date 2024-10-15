@@ -1386,12 +1386,32 @@ video {
     height: 35rem;
   }
 
+  .lg\:h-\[30rem\] {
+    height: 30rem;
+  }
+
+  .lg\:h-\[28rem\] {
+    height: 28rem;
+  }
+
   .lg\:w-1\/2 {
     width: 50%;
   }
 
   .lg\:w-\[32rem\] {
     width: 32rem;
+  }
+
+  .lg\:w-\[28rem\] {
+    width: 28rem;
+  }
+
+  .lg\:w-\[282rem\] {
+    width: 282rem;
+  }
+
+  .lg\:w-\[20rem\] {
+    width: 20rem;
   }
 
   .lg\:grid-cols-3 {
